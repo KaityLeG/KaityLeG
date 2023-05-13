@@ -20,9 +20,6 @@ Experienced and passionate about cloud computing and DevOps. Create projects tha
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 
 #
-### 📊 Stats
-[![Kaity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaityLeG)](https://github.com/KaityLeG/github-readme-stats)
-
 
 
 
